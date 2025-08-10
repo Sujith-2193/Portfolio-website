@@ -5,12 +5,17 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "A personal portfolio site highlighting my work, skills, and resume, aimed at connecting with potential collaborators or employers.",
-    link: "#",
+    link: "https://github.com/Sujith-2193/Portfolio-website",
   },
   {
     title: "Phytoscan",
     description: "A smart chatbot built using ML and data from various plant leaves, capable of detecting and diagnosing plant diseases with precision",
     link: "https://github.com/Sujith-2193/Phytoscan",
+  },
+  {
+    title: "IconDeck",
+    description: "A world of personalized file folder icons to transform your PC into a reflection of your style.",
+    link: "https://github.com/Sujith-2193/IconDeck",
   },
 ];
 
