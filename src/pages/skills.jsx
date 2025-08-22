@@ -37,9 +37,9 @@ const Skills = () => {
 
       {/* Row 2: 3 skills, centered */}
       <div className="grid grid-cols-3 gap-6 max-w-[640px] mx-auto">
-        {skills.slice(4).map((skill, index) => (
+        {skills.slice(3).map((skill, index) => (
           <div
-            key={index + 4}
+            key={index + 3}
             className="flex flex-col items-center bg-white p-4 rounded-lg shadow-md hover:scale-105 transition w-full"
           >
             <img src={skill.logo} alt={skill.name} className="w-16 h-16 mb-2" />
